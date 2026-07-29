@@ -1,0 +1,14 @@
+import CompositeMixturePropertiesCanonicalLaneLean.Basic
+import CompositeMixturePropertiesCanonicalLaneLean.ModelingFramework
+import CompositeMixturePropertiesCanonicalLaneLean.ClosureProperties
+import CompositeMixturePropertiesCanonicalLaneLean.PhaseField
+import CompositeMixturePropertiesCanonicalLaneLean.EffectiveMedium
+import CompositeMixturePropertiesCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace CompositeMixturePropertiesCanonicalLaneLean
+
+-- Root module aggregating all submodules.
+
+end CompositeMixturePropertiesCanonicalLaneLean
+end HautevilleHouse
